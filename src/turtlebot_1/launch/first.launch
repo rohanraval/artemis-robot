@@ -1,0 +1,7 @@
+<launch>
+<node name="firstnode" pkg="turtlebot_1" type="teleop" />
+<!--
+<node name="firstnode" pkg="turtlebot_1" type="telop.py" />
+-->
+
+</launch>
